@@ -1,0 +1,19 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    coderay (1.1.2)
+    method_source (1.0.0)
+    mysql2 (0.5.3)
+    pry (0.13.0)
+      coderay (~> 1.1)
+      method_source (~> 1.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  mysql2
+  pry
+
+BUNDLED WITH
+   2.1.4
